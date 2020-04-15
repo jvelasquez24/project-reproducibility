@@ -62,7 +62,7 @@ It allows adding citations and a list of references in any format.
 Go here for a quick introduction to the rmarkdown format.
 
 ## Some extras
-
+***Joseline***
 ### A license file
 
 As I recently learned, without a license, the contents of a repository are technically closed.
